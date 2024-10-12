@@ -25,7 +25,7 @@ To run the project, you need:
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/iamhirdesh15/Old-Car-Price-Prediction-GUI.git
+    git clone https://github.com/iamhirdeshkumar15/Old-Car-Price-Prediction-GUI.git
     ```
 
 2. Install the required Python packages:
